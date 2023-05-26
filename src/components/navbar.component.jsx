@@ -26,6 +26,9 @@ const NavbarComponent = () => {
               <li className="nav-item">
                 <a className="nav-link" href="/video">Video</a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/file">File</a>
+              </li>
             </ul>
           </div>
         </div>
